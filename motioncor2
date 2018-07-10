@@ -1,0 +1,2 @@
+CUDA_VERSION=80
+nvidia-docker run --rm -it motioncor2_cuda$CUDA_VERSION "$@"
