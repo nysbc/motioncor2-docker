@@ -18,7 +18,7 @@ Change directories to motioncor2-docker.
 
 Run the build script: `./build.sh`
 
-The build script should take 1-2 minutes if Docker, Nvidia-Docker are installed properly.
+The build script should take 1-2 minutes if Docker and Nvidia-Docker are installed properly.
 
 Run MotionCor2 with the command ./motioncor2. You should see the output from MotionCor2:
 ```
