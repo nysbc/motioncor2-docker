@@ -14,7 +14,7 @@ Download and install MotionCor2: http://msg.ucsf.edu/em/software/motioncor2.html
 
 Copy and unzip the MotionCor2 zip file into the motioncor2-docker directory.
 
-Move to the ~/motioncor2-docker directory.
+Change directories to motioncor2-docker.
 
 Run the build script: `./build.sh`
 
