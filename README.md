@@ -20,7 +20,7 @@ Run the build script: `./build.sh`
 
 The build script should take 1-2 minutes if Docker, Nvidia-Docker are installed properly.
 
-Run MotionCor2 with the command ./motioncor2. You should the output from MotionCor2:
+Run MotionCor2 with the command ./motioncor2. You should see the output from MotionCor2:
 ```
 Usage: MotionCor2 Tags
 -InMrc         
